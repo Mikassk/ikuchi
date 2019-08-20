@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: 122bdbe6300f9c34583829c725d7f00e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ikuchi_cabeca1
+    21300002: ikuchi_cabeca2
+    21300004: ikuchi_cabeca3
+    21300006: corpo1-1
+    21300008: corpo1-2
+    21300010: corpo1-3
+    21300012: corpo2-1
+    21300014: corpo2-2
+    21300016: corpo2-3
+    21300018: corpo3-1
+    21300020: corpo3-2
+    21300022: corpo3-3
+    21300024: corpo4-1
+    21300026: corpo4-2
+    21300028: corpo4-3
+    21300030: ikuchi_rabo1
+    21300032: ikuchi_rabo2
+    21300034: ikuchi_rabo3
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ikuchi_cabeca1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      outline:
+      - - {x: 9.5, y: -15.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 21.5, y: -14.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 11.5, y: 17.5}
+        - {x: 3.5, y: 10.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -13.5, y: -0.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -18.5, y: -3.5}
+        - {x: -24.5, y: -6.5}
+        - {x: -24.5, y: -11.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 3.5, y: -17.5}
+        - {x: 4.5, y: -16.5}
+      physicsShape:
+      - - {x: 9.5, y: -15.5}
+        - {x: 12.5, y: -13.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 21.5, y: -14.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 24.5, y: -15.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 11.5, y: 17.5}
+        - {x: 3.5, y: 10.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -13.5, y: -0.5}
+        - {x: -16.5, y: -1.5}
+        - {x: -18.5, y: -3.5}
+        - {x: -24.5, y: -6.5}
+        - {x: -24.5, y: -11.5}
+        - {x: -21.5, y: -15.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 3.5, y: -17.5}
+        - {x: 4.5, y: -16.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: fc6bfbcf734123f43be4b407b0bc6616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikuchi_cabeca2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 13}
+      outline:
+      - - {x: 10, y: -15.5}
+        - {x: 13, y: -13.5}
+        - {x: 17, y: -13.5}
+        - {x: 18, y: -14.5}
+        - {x: 22, y: -14.5}
+        - {x: 23, y: -15.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 17.5}
+        - {x: 17, y: 13.5}
+        - {x: 17, y: 17.5}
+        - {x: 12, y: 17.5}
+        - {x: 4, y: 10.5}
+        - {x: -8, y: 4.5}
+        - {x: -11, y: 0.5}
+        - {x: -14, y: 0.5}
+        - {x: -19, y: -2.5}
+        - {x: -25, y: -5.5}
+        - {x: -25, y: -10.5}
+        - {x: -22, y: -14.5}
+        - {x: -17, y: -16.5}
+        - {x: -15, y: -17.5}
+        - {x: 4, y: -17.5}
+        - {x: 5, y: -16.5}
+      physicsShape:
+      - - {x: 10, y: -15.5}
+        - {x: 13, y: -13.5}
+        - {x: 17, y: -13.5}
+        - {x: 18, y: -14.5}
+        - {x: 22, y: -14.5}
+        - {x: 23, y: -15.5}
+        - {x: 25, y: -15.5}
+        - {x: 25, y: 17.5}
+        - {x: 17, y: 13.5}
+        - {x: 17, y: 17.5}
+        - {x: 12, y: 17.5}
+        - {x: 4, y: 10.5}
+        - {x: -8, y: 4.5}
+        - {x: -11, y: 0.5}
+        - {x: -14, y: 0.5}
+        - {x: -19, y: -2.5}
+        - {x: -25, y: -5.5}
+        - {x: -25, y: -10.5}
+        - {x: -22, y: -14.5}
+        - {x: -17, y: -16.5}
+        - {x: -15, y: -17.5}
+        - {x: 4, y: -17.5}
+        - {x: 5, y: -16.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c213bb289ff547b4c846609a14531273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikuchi_cabeca3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 13}
+      outline:
+      - - {x: 16.5, y: -14.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 16.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 5.5, y: 9.5}
+        - {x: 4.5, y: 9.5}
+        - {x: 2.5, y: 7.5}
+        - {x: -0.5, y: 7.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -14.5, y: 0.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -25.5, y: -10.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -17.5, y: -16.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 12.5, y: -14.5}
+      physicsShape:
+      - - {x: 16.5, y: -14.5}
+        - {x: 17.5, y: -15.5}
+        - {x: 25.5, y: -16.5}
+        - {x: 25.5, y: 16.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 13.5, y: 17.5}
+        - {x: 5.5, y: 9.5}
+        - {x: 4.5, y: 9.5}
+        - {x: 2.5, y: 7.5}
+        - {x: -0.5, y: 7.5}
+        - {x: -7.5, y: 4.5}
+        - {x: -10.5, y: 0.5}
+        - {x: -14.5, y: 0.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -25.5, y: -10.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -17.5, y: -16.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 4.5, y: -17.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 12.5, y: -14.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 612bace54c2d7964aa63ac66622910f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo1-1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -14}
+        - {x: -21.5, y: 14}
+        - {x: -13.5, y: 14}
+        - {x: 21.5, y: 11}
+        - {x: 21.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcb74f31619f904bbf58bfc4853fd7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo1-2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -13.5}
+        - {x: -21, y: 13.5}
+        - {x: -6, y: 13.5}
+        - {x: 21, y: 9.5}
+        - {x: 21, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e427f3cbebaa2d4da4369373352f498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo1-3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -20.5, y: 13}
+        - {x: -13.5, y: 13}
+        - {x: 20.5, y: 10}
+        - {x: 20.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f2b3b25106f64181da87f944b98dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo2-1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 27
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31aab9cf4758c4980673675546123f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo2-2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 93
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e82867ada09443962874909c87656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo2-3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423cd7f9fe6d6749bd8ad27ee65e0b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo3-1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 27
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0287bb1a2e92c0848b88f8078155fb60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo3-2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 93
+        width: 50
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507720d865545448ad5816220bddac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo3-3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 151
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8872edfe781344beb811b9329ccf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo4-1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 27
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3839d40a32b8489828fc053aa934c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo4-2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d0fe0fee4ae24790ad0ad6d6fc584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corpo4-3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 151
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193429228f6cd4f4d8f1e9c22c5a9ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikuchi_rabo1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 27
+        width: 102
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      outline:
+      - - {x: 44, y: -13.5}
+        - {x: 44, y: -14.5}
+        - {x: -1, y: -14.5}
+        - {x: -1, y: -15.5}
+        - {x: -51, y: -15.5}
+        - {x: -51, y: 7.5}
+        - {x: 28, y: 0.5}
+        - {x: 38, y: 15.5}
+        - {x: 39, y: 15.5}
+        - {x: 40, y: -2.5}
+        - {x: 51, y: -12.5}
+        - {x: 51, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc668865d3134f7448d97e74c3228123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikuchi_rabo2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 93
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      outline:
+      - - {x: 44.5, y: -13}
+        - {x: 44.5, y: -14}
+        - {x: -0.5, y: -14}
+        - {x: -0.5, y: -15}
+        - {x: -51.5, y: -15}
+        - {x: -51.5, y: 7}
+        - {x: 7.5, y: 1}
+        - {x: 26.5, y: 1}
+        - {x: 38.5, y: 15}
+        - {x: 40.5, y: 15}
+        - {x: 40.5, y: 9}
+        - {x: 39.5, y: 1}
+        - {x: 51.5, y: -12}
+        - {x: 51.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d8fd8537efd14d8e670c917084a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ikuchi_rabo3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 151
+        width: 101
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 10}
+      outline:
+      - - {x: 43.570618, y: -12.568619}
+        - {x: 43.5, y: -13.5}
+        - {x: -0.5, y: -13.5}
+        - {x: -0.5, y: -14.5}
+        - {x: -50.5, y: -14.5}
+        - {x: -50.5, y: 4.5}
+        - {x: -32.5, y: 4.5}
+        - {x: -13.5, y: 2.5}
+        - {x: 20.5, y: -0.5}
+        - {x: 26.5, y: 1.5}
+        - {x: 36.5, y: 11.5}
+        - {x: 40.5, y: 14.5}
+        - {x: 41.5, y: 14.5}
+        - {x: 41.5, y: -3.5}
+        - {x: 50.5, y: -11.5}
+        - {x: 50.5, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1aeea94e1ab24cb8365b5dfd33211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: da60de0632fc2dc498c139b972ed1981
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

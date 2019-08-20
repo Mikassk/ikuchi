@@ -6,7 +6,7 @@ public class ikuchicorpo : MonoBehaviour
 {
 
     public bool anim;
-    private SpriteRenderer sprite;
+    public SpriteRenderer sprite;
     private BoxCollider2D boxcoll;
     private Rigidbody2D rb;
     public bool desable = false;

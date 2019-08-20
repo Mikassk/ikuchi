@@ -22,9 +22,9 @@ TagManager:
   - coluna esquerda
   - ikuchicorpo
   - boxcollider Right
-  - 
-  - 
-  - 
+  - hero-attack
+  - pedras
+  - treino
   - 
   - 
   - 
@@ -41,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 1342530533
+    locked: 0
+  - name: 1
+    uniqueID: 67244847
+    locked: 0
+  - name: 2
+    uniqueID: 3868199601
+    locked: 0
+  - name: 3
+    uniqueID: 2136688557
     locked: 0

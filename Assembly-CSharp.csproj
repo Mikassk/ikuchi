@@ -53,9 +53,34 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\boneco_.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUI.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\entersccene.cs" />
+     <Compile Include="Assets\espaco.cs" />
+     <Compile Include="Assets\Script\Ataque_hero.cs" />
+     <Compile Include="Assets\Script\game.cs" />
+     <Compile Include="Assets\Script\goSceneManager.cs" />
+     <Compile Include="Assets\Script\gSceneManager.cs" />
      <Compile Include="Assets\Script\Ikuchi.cs" />
      <Compile Include="Assets\Script\ikuchicorpo.cs" />
      <Compile Include="Assets\Script\Move_Hero.cs" />
+     <Compile Include="Assets\Script\SceneField.cs" />
+     <Compile Include="Assets\Script\Script_cenario\coluna_dir.cs" />
+     <Compile Include="Assets\Script\Script_cenario\coluna_esq.cs" />
+     <Compile Include="Assets\Script\Script_cenario\credits.cs" />
+     <Compile Include="Assets\Script\Script_cenario\destroypedra.cs" />
+     <Compile Include="Assets\Script\Script_cenario\feedback_vida.cs" />
+     <Compile Include="Assets\Script\Script_cenario\gameoverbutton.cs" />
+     <Compile Include="Assets\Script\Script_cenario\pedras.cs" />
+     <Compile Include="Assets\seta_direcional.cs" />
+     <Compile Include="Assets\teclaz.cs" />
+     <None Include="Assets\Demigiant\DOTween\readme.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Miika/Desktop/PROJETO/pagoda/Pagoda/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -271,6 +296,9 @@
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>C:/Users/Miika/Desktop/PROJETO/pagoda/Pagoda/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>C:/Users/Miika/Desktop/PROJETO/pagoda/Pagoda/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
